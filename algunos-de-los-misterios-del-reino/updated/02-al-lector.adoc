@@ -1,5 +1,6 @@
 == Al Lector
 
+[.salutation]
 Lector,
 
 En tiempos pasados, en la noche de la ignorancia, desde los días de los apóstoles,
@@ -36,8 +37,11 @@ para que puedas sentir tu propia condición y apreciar tu propio estado.
 Y luego, esa luz que te permite ver tu propia condición,
 también te permitirá ver al Señor, y sabrás que lo que he declarado de Él es verdadero.
 
+[.signed-section-closing]
 Soy tu amigo en la Verdad, y deseo bien a todos los hombres,
 
+[.signed-section-signature]
 Francis Howgill
 
+[.signed-section-context-close]
 1658

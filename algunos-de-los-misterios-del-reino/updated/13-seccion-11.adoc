@@ -1,5 +1,6 @@
 == Sección XI.
 
+[.blurb]
 === Sobre si todos han recibido la gracia de Dios o no, y si es un maestro suficiente en sí mismo.
 
 Esta generación sabia, cuya sabiduría está por debajo de la sabiduría de Dios,
@@ -161,10 +162,12 @@ evitar que el hombre cometa el mal o el pecado que ella le muestra.
 Y a medida que se recibe, el poder llega a manifestarse cada vez más,
 y todos los que creen llegan a ser preservados del mal.
 
+[.discourse-part]
 Objeción: Pero ahora algunos dicen: "`Hay una gracia común y una gracia salvadora,
 y la primera ha aparecido a todos,
 pero la última ha aparecido solamente a los santos y a los elegidos.`"
 
+[.discourse-part]
 Respuesta: La gracia, que es el don puro y perfecto de Dios, es una sola cosa.
 No estoy diciendo que la plenitud de la gracia ha aparecido a todos,
 pero una medida de esta plenitud, que es Cristo, la Cabeza.
@@ -184,11 +187,13 @@ para la gestión de las cosas naturales en la creación visible.
 Porque las cosas del reino de Dios son de otra calidad y naturaleza,
 y no pueden ser alcanzadas por las habilidades naturales.)
 
+[.discourse-part]
 Objeción: Sin embargo, algunos estarán listos para decir, "`Esto es un error,
 y es contrario a la Escritura y a los maestros ortodoxos,
 sugerir que la gracia que salva está cerca de todos los hombres,
 y ha aparecido a todos los hombres.`"
 
+[.discourse-part]
 Respuesta:
 Aunque la gracia que ha aparecido a todos los hombres es salvadora en sí misma,
 y puede llamarse verdaderamente gracia salvadora, sin embargo,
@@ -207,10 +212,12 @@ pero es el mismo Señor. El mismo Espíritu que convence de pecado y lo reprueba
 también conforta y consuela.
 Aquí hay diversidad de operaciones, sin embargo, es el mismo Espíritu que nunca cambia.
 
+[.discourse-part]
 Objeción: Más algunos pueden decir,
 "`Si ha aparecido una medida de la gracia salvadora a todos los hombres,
 entonces ¿cómo es que todos no son salvos por ella?`"
 
+[.discourse-part]
 Respuesta: No todos son salvos por ella, porque no creen en ella,
 ni son enseñados por ella.
 Y aunque los que son descuidados y desatentos dicen:
