@@ -1,5 +1,6 @@
 == Sección II.
 
+[.blurb]
 === Lo que es el Día del Señor, cómo se ve y a quién ha aparecido.
 
 Dios es espíritu, Su Día es espiritual y es visto con ojos espirituales.
@@ -33,10 +34,12 @@ tinieblas--que está encerrado en la oscuridad eterna y absoluta,
 que es su eterna residencia y lugar de morada,
 y será la residencia eterna de todos los hacedores de iniquidad que llevan su imagen.
 
+[.discourse-part]
 Objeción: Sin embargo, algunos pueden estar listos para decir,
 "`¡Pero todas las cosas aún no han sido hechas manifiestas, ni ha llegado ese Día aún,
 ni se le ha aparecido a nadie en esta era!
 
+[.discourse-part]
 Respuesta:
 Qué pasaría si un hombre que es naturalmente ciego dijera
 que no hay luz en el día natural ni en el sol,

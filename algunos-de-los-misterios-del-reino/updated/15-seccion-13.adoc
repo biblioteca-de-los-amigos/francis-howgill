@@ -1,5 +1,6 @@
 == Sección XIII.
 
+[.blurb]
 === El reino de Dios y de Cristo declarados en cierta medida, qué es, dónde debe esperarse, y cómo se revela internamente a los que creen.
 
 El Señor ha preparado Su trono en los cielos, Su reino gobierna sobre todo,
@@ -93,10 +94,12 @@ y por aquellos que experimentan este nacimiento inmortal viviendo en ellos.
 Así que todo el que alguna vez llegue a ver y a sentir el reino de Dios,
 el cual es espiritual, debe esperar en el Espíritu, y en su manifestación.
 
+[.discourse-part]
 Objeción: Pero algunos dicen que hay dos tipos de reino--uno de gracia aquí y ahora,
 y otro de gloria en el porvenir,
 el cual nadie llega a gozar en esta vida o en este cuerpo.
 
+[.discourse-part]
 Respuesta:
 Por mucho tiempo las personas han estado cegadas
 y confundidas con los nombres y las palabras,
@@ -127,10 +130,12 @@ Su poder y gloria revelados en el corazón por medio del Espíritu,
 y gozarán a Dios en Su reino, poder, y gloria,
 y por medio de la fe verán el peso de la gloria.
 
+[.discourse-part]
 Objeción: Sin embargo, algunos dirán, ¿Qué?,
 ¿no buscan ninguna otra gloria además de la que se obtiene en esta vida?
 ¿Ni ningún otro reino sino el que gozan en esta vida?
 
+[.discourse-part]
 Respuesta:
 Los santos no buscaron ninguna otra gloria diferente
 de aquella que se encuentra en la vida eterna,

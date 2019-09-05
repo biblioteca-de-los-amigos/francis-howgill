@@ -1,15 +1,18 @@
 == Sección X.
 
+[.blurb]
 === Lo que la gracia gratuita de Dios es, a quién se ha aparecido, y cómo deben esperar todos para recibirla.
 
-Tito 2:11-14 Porque la gracia de Dios se ha manifestado para salvación a todos los hombres,
-enseñándonos que, renunciando a la impiedad y a los deseos mundanos,
-vivamos en este siglo sobria, justa y piadosamente,
-aguardando la esperanza bienaventurada y la manifestación
-gloriosa de nuestro gran Dios y Salvador Jesucristo,
-quien se dio a sí mismo por nosotros para redimirnos de
-toda iniquidad y purificar para sí un pueblo propio,
-celoso de buenas obras.
+[quote.scripture, , Tito 2:11-14 RVG]
+____
+Porque la gracia de Dios que trae salvación se ha manifestado a todos los hombres,
+enseñándonos que, renunciando a la impiedad y a las concupiscencias mundanas,
+vivamos en este presente mundo, sobria, justa y piadosamente.
+Aguardando aquella esperanza bienaventurada, y la manifestación gloriosa
+de nuestro gran Dios y Salvador Jesucristo,
+quien se dio a sí mismo por nosotros para redimirnos de toda iniquidad,
+y purificar para sí un pueblo peculiar, celoso de buenas obras.
+____
 
 La gracia de Dios es un don puro, perfecto y gratuito de Dios.
 Es la aparición de Cristo, el rayo de justicia que resplandece,
