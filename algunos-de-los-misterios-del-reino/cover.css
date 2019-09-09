@@ -1,0 +1,23 @@
+.trim--s .blurb {
+  font-size: 0.138in;
+}
+
+.trim--s .brackets {
+  transform:
+    translateX(-50%)
+    scaleY(1.4)
+    translateY(5%);
+}
+
+.trim--s .title-wrap .title {
+  line-height: 1.35em;
+}
+
+.trim--s .title-wrap h1.title {
+  margin-top: -2%;
+  margin-bottom: 3.7%;
+}
+
+.trim--s .title-wrap h2.title {
+  font-size: 0.165in;
+}

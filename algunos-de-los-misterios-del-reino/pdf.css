@@ -1,0 +1,7 @@
+/* temporary, until we have a way to support book subtitles, or a better solution */
+.half-title-page h1::after {
+  content: 'Como Han Sido Revelados por El Espíritu a Través de la Fe';
+  display: block;
+  margin-top: 1.3em;
+  font-size: .6em;
+}
