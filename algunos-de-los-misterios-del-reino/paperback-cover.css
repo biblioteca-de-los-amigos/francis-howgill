@@ -1,23 +1,23 @@
-.trim--s .blurb {
-  font-size: 0.138in;
+#__id__.trim--s .blurb {
+  font-size: 0.133in;
 }
 
-.trim--s .brackets {
-  transform:
-    translateX(-50%)
-    scaleY(1.4)
-    translateY(5%);
-}
-
-.trim--s .title-wrap .title {
+#__id__.trim--s .title-wrap h1 {
   line-height: 1.35em;
+  margin-top: -10%;
 }
 
-.trim--s .title-wrap h1.title {
-  margin-top: -2%;
-  margin-bottom: 3.7%;
+#__id__.trim--s .title-wrap h2 {
+  font-size: 0.32in;
+  margin-top: -45%;
 }
 
-.trim--s .title-wrap h2.title {
-  font-size: 0.165in;
+.prince #__id__.trim--s .title-wrap h1 {
+  line-height: 1.35em;
+  margin-top: -20%;
+}
+
+.prince #__id__.trim--s .title-wrap h2 {
+  font-size: 0.32in;
+  margin-top: -35%;
 }
