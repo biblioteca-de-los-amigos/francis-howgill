@@ -1,13 +1,13 @@
-#__id__.trim--s .blurb {
+#__id__ .blurb {
   font-size: 0.133in;
 }
 
-#__id__.trim--s .title-wrap h1 {
+#__id__ .title-wrap h1 {
   line-height: 1.38em;
   margin-top: -34%;
 }
 
-#__id__.trim--s .title-wrap h2 {
+#__id__ .title-wrap h2 {
   font-size: 0.32in;
   margin-top: -34%;
 }
