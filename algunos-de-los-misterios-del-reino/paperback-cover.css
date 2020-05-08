@@ -11,3 +11,20 @@
   font-size: 0.32in;
   margin-top: -34%;
 }
+
+#__id__.trim--m .title-wrap h1,
+#__id__.trim--xl .title-wrap h1 {
+
+  line-height: 1.48em;
+  margin-top: -20%;
+}
+
+#__id__.trim--m .title-wrap h2,
+#__id__.trim--xl .title-wrap h2 {
+  font-size: 0.43in;
+  margin-top: -10%;
+}
+
+#__id__.trim--xl .title-wrap h2{
+  margin-top: -13%;
+}
