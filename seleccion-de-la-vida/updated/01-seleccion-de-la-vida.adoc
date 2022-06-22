@@ -270,7 +270,10 @@ y aunque nuestra gloria había llegado a ser grande ante los ojos del mundo,
 ahora veíamos que todo era vanidad,
 y que no conocíamos el primer principio de la verdadera religión.
 
-+++[+++Nota del Editor:
+[.asterism]
+'''
+
++++[+++__Nota del Editor:__
 Parece que este gran despertar en el corazón de Francis
 Howgill tuvo lugar en el año 1652.
 Él estaba en una feria en Sedburgh, al oeste de Yorkshire,
@@ -301,6 +304,8 @@ John Audland, John Camm, Richard Hubberthorne,
 y muchos otros fueron convencidos de la verdad eterna,
 es extraído del diario de George Fox.
 
+[quote]
+____
 "`El siguiente Primer-día, vine a la capilla de Firbank, en Westmoreland,
 donde Francis Howgill y John Audland habían estado predicando en la mañana.
 En ese momento la capilla estaba tan llena de personas, que muchos no podían entrar.
@@ -373,8 +378,13 @@ el poder convincente del Señor acompañó mi ministerio,
 y alcanzó los corazones de las personas,
 por lo cual todos los maestros de esa congregación (que eran muchos) y también
 una gran cantidad de personas fueron convencidas de la verdad eterna de Dios.`"
+____
 
+[.offset]
 Volviendo al relato de Francis Howgill:]
+
+[.asterism]
+'''
 
 Entonces a medida que volvía mi mente internamente a la
 luz de Jesucristo con la que había sido alumbrado,
@@ -585,7 +595,7 @@ a quién el Padre ha dado por pacto^
 footnote:[Isaías 42:6, 49:8]
 para sacar al hombre de la separación y llevarlo a Sí mismo otra vez,
 y para reconciliar al hombre consigo mismo mediante la sangre de la cruz.
-El que es la luz es el pacto; y el que es el pacto es la luz;
+El que es la luz _es_ el pacto; y el que es el pacto es la luz;
 porque el pacto y la luz son una misma cosa en Él;
 y este pacto de paz es ofrecido a ustedes que están lejos.
 Este don es gratuito,
@@ -843,57 +853,73 @@ Al entrar en la corte, y afirmar que él no tenía nada de qué acusarse,
 porque su conciencia le daba testimonio de que amaba la paz,
 y la procuraba con todos los hombres, el siguiente intercambio de palabras tuvo lugar:
 
-Juez: ¿Por qué en lugar de ir a la iglesia se reúnen en casas y en conventículos^
+[.discourse-part]
+__Juez:__ ¿Por qué en lugar de ir a la iglesia se reúnen en casas y en conventículos^
 footnote:[Una junta ilícita y clandestina.]
 privados, que la ley prohíbe?
 
-Francis Howgill: Nos reunimos solo para adorar al verdadero Dios en espíritu y verdad,
+[.discourse-part]
+__Francis Howgill:__ Nos reunimos solo para adorar al verdadero Dios en espíritu y verdad,
 teniendo a los cristianos primitivos como nuestro ejemplo;
 y con ningún otro fin más que ser edificados y glorificar a Dios;
 y donde están dos o tres congregados en el nombre de Cristo, y Él está en medio de ellos,
 allí hay una iglesia.
 
-Juez: Eso es verdad;
+[.discourse-part]
+__Juez:__ Eso es verdad;
 pero ¿cuánto tiempo ha pasado desde la última vez que has ido a la iglesia;
 o estás dispuesto a ir a la iglesia que la ley permite?
 Dame algunas razones por las que no asistes.
 
-Francis Howgill: Tengo muchas para darte si tienes paciencia para oírme: primero,
+[.discourse-part]
+__Francis Howgill:__ Tengo muchas para darte si tienes paciencia para oírme: primero,
 Dios no mora en templos hechos con manos de hombres: segundo,
 la casa parroquial ha sido un templo para ídolos, es decir, para ceremonias e imágenes;
 y no me atrevo a tener comunión con ídolos, ni adorar en templos de ídolos; ¿porque,
 qué tenemos nosotros que ver con los ídolos, y con sus templos y adoración?
 
-Juez: ¿No habían casas en las Escrituras llamabas las casas de Dios, y templos?
+[.discourse-part]
+__Juez:__ ¿No habían casas en las Escrituras llamabas las casas de Dios, y templos?
 
-Francis Howgill: Sí, bajo la ley;
+[.discourse-part]
+__Francis Howgill:__ Sí, bajo la ley;
 pero los cristianos que creyeron en Cristo se apartaron de estas casas y templos,
 y de los templos de los gentiles también, y se reunían en casas,
 y partían el pan de casa en casa; y la Iglesia no estaba confinada a un lugar particular,
 ni lo está ahora.
 
+[.offset]
 +++[+++El juez interrumpió]
 
-Juez: ¿Responderás a tu acusación?
+[.discourse-part]
+__Juez:__ ¿Responderás a tu acusación?
 
-Francis Howgill: No sé cuál es.
+[.discourse-part]
+__Francis Howgill:__ No sé cuál es.
 Nunca la he oído, aunque a menudo he deseado una copia.
 
-Juez: Secretario, léala.
+[.discourse-part]
+__Juez:__ Secretario, léala.
 
+[.offset]
 +++[+++Entonces la leyó, declarando que "`Francis Howgill de manera rebelde,
 obstinada y con menosprecio se negó a jurar cuando se le leyó el juramento.]
 
-Francis Howgill: Lo niego.
+[.discourse-part]
+__Francis Howgill:__ Lo niego.
 
-Juez: ¿Qué niegas?
+[.discourse-part]
+__Juez:__ ¿Qué niegas?
 
-Francis Howgill: La acusación.
+[.discourse-part]
+__Francis Howgill:__ La acusación.
 
-Juez: ¿No te negaste a jurar?
+[.discourse-part]
+__Juez:__ ¿No te negaste a jurar?
 Y la acusación te declara culpable de no haber jurado.
 
-Francis Howgill: Primero,
+[.discourse-part]
+__Francis Howgill:__ Primero,
 le declaré al tribunal que estaba de acuerdo con la sustancia del juramento,
 como todos ustedes saben, y les ofrecí ponerlo por escrito.
 Segundo, les dije que no me negaba a jurar por obstinación o rebeldía,
@@ -907,25 +933,29 @@ aún así no me atrevería a hacer otra cosa, no sea que incurra en el desagrado
 y sufriría el despojo de mis bienes, y la ruina de mi esposa e hijos,
 por obstinación y rebeldía? Seguro que no.
 
-Juez: Jurado, ustedes ven que él niega el juramento,
+[.discourse-part]
+__Juez:__ Jurado, ustedes ven que él niega el juramento,
 y no se declarará culpable de la acusación,
 sino que solo objeta contra ella por la forma en que está escrita.
 Pero ustedes ven que él no jurará, y sin embargo él dice que niega la acusación,
 y ya ven en qué motivos se basa.
 
+[.offset]
 +++[+++Entonces el jurado dio un veredicto de culpabilidad,
 y la corte se disolvió por el día. Al siguiente día, hacia la tarde,
 cuando habían procesado a todos los presos,
 Francis fue llevado al tribunal para recibir su sentencia.]
 
-Juez: Ven ahora, la acusación ha sido probada en tú contra,
+[.discourse-part]
+__Juez:__ Ven ahora, la acusación ha sido probada en tú contra,
 ¿qué tienes que decir para explicar por qué no debe emitirse la sentencia?
 
-Francis Howgill: Tengo muchas cosas que decir, si ustedes están dispuestos a escucharlas.
-Primero, como había dicho, no me negué a jurar por obstinación o rebeldía; segundo,
+[.discourse-part]
+__Francis Howgill:__ Tengo muchas cosas que decir, si ustedes están dispuestos a escucharlas.
+__Primero,__ como había dicho, no me negué a jurar por obstinación o rebeldía; __segundo,__
 porque jurar es algo directamente contrario al mandamiento de Cristo.
-Tercero, porque también es contrario a la doctrina de los apóstoles.
-Cuarto,
+__Tercero,__ porque también es contrario a la doctrina de los apóstoles.
+__Cuarto,__
 incluso contrario a algunos de los principales pilares de la iglesia de Inglaterra;
 como por ejemplo, el obispo Usher, que fue arzobispo de Irlanda por un tiempo,
 dijo en sus obras que los Waldenses negaban todo tipo de juramento en
@@ -935,27 +965,35 @@ en un libro de él que leí recientemente,
 citó muchos padres antiguos para demostrar que por los primeros tres siglos,
 los cristianos no juraban, así que esta no es una doctrina nueva.
 
-Juez: ¡Sin duda estás equivocado!
+[.discourse-part]
+__Juez:__ ¡Sin duda estás equivocado!
 
-Francis Howgill: No tengo el libro aquí.
+[.discourse-part]
+__Francis Howgill:__ No tengo el libro aquí.
 
-Juez: ¿Dirás tú con honestidad que ellos negaban todo tipo de juramentos?
+[.discourse-part]
+__Juez:__ ¿Dirás tú con honestidad que ellos negaban todo tipo de juramentos?
 
-Francis Howgill: Lo que he dicho es verdad.
+[.discourse-part]
+__Francis Howgill:__ Lo que he dicho es verdad.
 
-Juez: Pero ¿por qué no vas a la iglesia y escuchas el servicio, y te sometes a la ley,
+[.discourse-part]
+__Juez:__ Pero ¿por qué no vas a la iglesia y escuchas el servicio, y te sometes a la ley,
 y obedeces toda institución humana por causa del Señor?
 
-Francis Howgill: Nosotros estamos sujetos, y por esa razón pagamos impuestos, tributos,
+[.discourse-part]
+__Francis Howgill:__ Nosotros estamos sujetos, y por esa razón pagamos impuestos, tributos,
 y derechos de aduana, y le damos al César lo que es del César,
 y a Dios lo que es de Dios, a saber, adoración, honor y obediencia;
 y si te refieres a la congregación parroquial, te digo sinceramente, estoy persuadido,
 sobre un buen fundamento, que sus maestros no son los ministros de Cristo,
 ni es su adoración la adoración de Dios.
 
-Juez: Por algunas cosas pequeñas en el servicio, ¿lo rechazas todo?
+[.discourse-part]
+__Juez:__ Por algunas cosas pequeñas en el servicio, ¿lo rechazas todo?
 
-Francis Howgill: Primero, es evidente que ellos son servidores del tiempo,^
+[.discourse-part]
+__Francis Howgill:__ Primero, es evidente que ellos son servidores del tiempo,^
 footnote:[Un servidor del tiempo es el que adapta sus opiniones y prácticas a los tiempos,
 o al cambio de los poderes gobernantes.]
 porque por un tiempo predican como '`servicio divino,`'
@@ -965,14 +1003,16 @@ Y eso que han predicado por veinte años, lo abandonan todo en un día;
 y entonces luego quieren llamarlo divino otra vez,
 y obligar a todos a creer lo que ellos mismos una vez desecharon.
 
-Juez: ¿Qué, desde que llegó el rey?
+[.discourse-part]
+__Juez:__ ¿Qué, desde que llegó el rey?
 
-Francis Howgill: Sí,
+[.discourse-part]
+__Francis Howgill:__ Sí,
 los mismos hombres que predicaron contra algo antes de que viniera el rey,
 ahora lo recomiendan y obligan a todos a creerlo.
 Son tan inestables y fluctuantes,
 que no podemos creer que ellos sean los ministros de Cristo.
-Segundo, enseñan por precio, y viven por un mantenimiento forzado,
+__Segundo,__ enseñan por precio, y viven por un mantenimiento forzado,
 y quieren imponer una fe sobre los hombres,
 en contra de la regla de Cristo y sus apóstoles,
 que dijeron que cada uno esté plenamente convencido en su propia mente, y,
@@ -985,13 +1025,16 @@ leyes,`" y solo amenazan con despojo de bienes,
 prisiones y destierros.
 Podría mencionar más detalles.
 
+[.offset]
 +++[+++Entonces el juez interrumpió]
 
-Juez: Bueno, veo que no jurarás, ni te conformarás, ni te sujetarás,
+[.discourse-part]
+__Juez:__ Bueno, veo que no jurarás, ni te conformarás, ni te sujetarás,
 y piensas que te tratamos con severidad;
 pero si te sujetaras a las leyes no tendríamos necesidad.
 
-Francis Howgill:
+[.discourse-part]
+__Francis Howgill:__
 Yo en verdad juzgo que ustedes nos tratan con severidad
 por nuestra obediencia a los mandamientos de Cristo.
 Y aunque no envidio la libertad de ningún hombre,
@@ -999,41 +1042,54 @@ les pregunto ¿pueden mostrarme cómo alguna de esas
 personas por las que este acto fue hecho,
 ha sido procesada por este estatuto?
 
-Juez:
+[.discourse-part]
+__Juez:__
 ¡Oh sí! Puedo mencionarte muchas personas de todas partes
-del país que han sido procesados con el estatuto premunire.
+del país que han sido procesados con el estatuto __premunire.__
 Yo mismo lo he hecho, y he pronunciado la sentencia contra varios.
 
-Francis Howgill: ¿qué, contra papistas?
+[.discourse-part]
+__Francis Howgill:__ ¿qué, contra papistas?
 
-Juez: No.
+[.discourse-part]
+__Juez:__ No.
 
-Francis Howgill: ¿Qué, contra cuáqueros?
+[.discourse-part]
+__Francis Howgill:__ ¿Qué, contra cuáqueros?
 Así lo he escuchado en verdad.
 Entonces, aunque el estatuto fue hecho contra papistas,
 aún así los dejan a ellos tranquilos y lo ejecutan contra los cuáqueros.
 
-Juez: Bueno, ustedes se reúnen en gran número, y crecen.
+[.discourse-part]
+__Juez:__ Bueno, ustedes se reúnen en gran número, y crecen.
 Pero hay un nuevo estatuto que los reducirá.
 
-Francis Howgill: Bueno, si tenemos que sufrir, es por amor a Cristo y por hacer el bien.
+[.discourse-part]
+__Francis Howgill:__ Bueno, si tenemos que sufrir, es por amor a Cristo y por hacer el bien.
 
+[.offset]
 Entonces Francis estando en silencio, el juez pronunció la siguiente sentencia:
 "`Quedas fuera de la protección del rey, y de los beneficios de la ley;
 tus tierras son confiscadas al rey durante tu vida,
 y tus bienes y pertenencias para siempre;
 y tú permanecerás prisionero el resto de tu vida.`"
 
-Francis Howgill: Una dura sentencia por mi obediencia a los mandamientos de Cristo.
+[.discourse-part]
+__Francis Howgill:__ Una dura sentencia por mi obediencia a los mandamientos de Cristo.
 El Señor los perdone a todos.
 
-Entonces el juez se levantó y dijo: Bueno,
+[.discourse-part]
+__Entonces el juez se levantó y dijo:__ Bueno,
 si todavía estás dispuesto a sujetarte a las leyes, el rey te mostrará misericordia.
 
-Francis Howgill: El Señor me ha mostrado misericordia;
+[.discourse-part]
+__Francis Howgill:__ El Señor me ha mostrado misericordia;
 y yo no he hecho nada contra el rey, ni contra el gobierno, ni contra ningún hombre,
 bendito sea el Señor, y en esto consiste mi paz;
 porque es por causa de Cristo que padezco, y no por hacer el mal.
+
+[.small-break]
+'''
 
 Francis Howgill soportó su encarcelamiento con gran paciencia,
 y demostró tanta mansedumbre, entrega y amor,
@@ -1049,8 +1105,8 @@ escribiendo epístolas a aquellos con quienes estaba unido en comunión religios
 y respondiendo a las publicaciones de algunos que
 tergiversaban los principios de los Amigos.
 También escribió varias epístolas y escritos doctrinales,
-de los cuales el más conocido es su tratado titulado Algunos
-de los Misterios del Reino de Dios Declarados.
+de los cuales el más conocido es su tratado titulado [.book-title]#Algunos
+de los Misterios del Reino de Dios Declarados#.
 
 La paz interna con la que él fue bendecido,
 al someterse pacientemente a la pérdida de su libertad por mantener fielmente esos testimonios
@@ -1071,6 +1127,10 @@ y dejó un patrimonio para que fuera distribuido entre todos los pobres de la fa
 de la fe en los lugares donde vivía. Dos años antes de su muerte en la cárcel de Appleby,
 escribió la siguiente carta a su pequeña hija Abigail.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Hija Abigail,
 
 Esto es para que lo observes, lo guardes y le prestes atención todos los días de tu vida,
@@ -1158,7 +1218,7 @@ verás como eso también someterá estas cosas y te
 preservará fuera del mal para el tiempo por venir.
 
 Porque aunque tú hayas nacido en el mundo como una criatura racional,
-aun así debes nacer de nuevo y ser hecha una nueva criatura, de lo contrario,
+aun así debes nacer de nuevo y ser hecha una _nueva_ criatura, de lo contrario,
 no podrás entrar en el reino de Dios.
 Debes conocer a la Semilla del reino en ti misma (de la
 que debes nacer) y ser formada de nuevo a la imagen de Dios.
@@ -1298,11 +1358,16 @@ Guarda mis palabras en tu corazón y hazlas; así serás feliz en esta vida y en
 Te encargo que guardes estas cosas, como expresión de mi mente,
 voluntad y consejo inalterables para ti; en testimonio de lo cual pongo mi mano.
 
+[.signed-section-closing]
 Tu querido padre,
 
+[.signed-section-signature]
 Francis Howgill
 
+[.signed-section-context-close]
 26 del mes Quinto de 1666
+
+--
 
 Cerca de dos días antes de su partida,
 siendo atendido por su querida esposa y varios amigos, les dijo: "`Amigos,
